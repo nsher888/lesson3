@@ -2,5 +2,24 @@
 	text-align: center;
 }
 .box{
-	text-align: left;
+	text-align: center;
+}
+h4{
+	border: 9px solid red;
+	border-radius: 20px;
+	margin: 20px 30px 40px 50px;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.navigation-a{
+	color: blue;
+	font-size: 22px;
+	font-weight: bold;
+}
+.orange{
+	color: orange;
 }
